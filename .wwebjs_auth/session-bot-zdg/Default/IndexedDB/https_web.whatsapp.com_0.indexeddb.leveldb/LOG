@@ -1,0 +1,16 @@
+2023/06/10-06:43:47.934 30a0 Reusing MANIFEST C:\MeusProjetos\chatbot_mestrado\sem botoes\bot-zdg\.wwebjs_auth\session-bot-zdg\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/10-06:43:47.935 30a0 Recovering log #55
+2023/06/10-06:43:48.151 30a0 Reusing old log C:\MeusProjetos\chatbot_mestrado\sem botoes\bot-zdg\.wwebjs_auth\session-bot-zdg\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000055.log 
+2023/06/10-06:46:18.941 6614 Level-0 table #62: started
+2023/06/10-06:46:19.003 6614 Level-0 table #62: 1417406 bytes OK
+2023/06/10-06:46:19.006 6614 Delete type=0 #55
+2023/06/10-06:46:25.644 858 Compacting 1@1 + 3@2 files
+2023/06/10-06:46:25.809 858 Generated table #63@1: 39971 keys, 2206672 bytes
+2023/06/10-06:46:25.964 858 Generated table #64@1: 41199 keys, 2186516 bytes
+2023/06/10-06:46:26.081 858 Generated table #65@1: 50065 keys, 1003995 bytes
+2023/06/10-06:46:26.081 858 Compacted 1@1 + 3@2 files => 5397183 bytes
+2023/06/10-06:46:26.083 858 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/06/10-06:46:26.083 858 Delete type=2 #57
+2023/06/10-06:46:26.083 858 Delete type=2 #58
+2023/06/10-06:46:26.083 858 Delete type=2 #59
+2023/06/10-06:46:26.083 858 Delete type=2 #62
